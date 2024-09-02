@@ -1,0 +1,1 @@
+This a week 2 of Software Dev bootcamp and we are learning JS.
